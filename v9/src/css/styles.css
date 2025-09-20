@@ -154,7 +154,7 @@ ol {
 }
 .gallery img {
   width: 100%;
-  height: 180px;
+  height: 240px;
   object-fit: cover;
   transition: transform 0.3s;
 }
